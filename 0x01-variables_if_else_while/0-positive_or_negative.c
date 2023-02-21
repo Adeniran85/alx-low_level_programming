@@ -5,7 +5,6 @@
 #include <stdio.h>
 
 
-
 /**
  * main - Prints if number is possitive, zero or negative
  * Return: Always (Success)
@@ -31,7 +30,7 @@ int main(void)
 	}
 	else 
 	{
-		printf("%d is negative\n", n);
+	printf("%d is negative\n", n);
 	}
 	return (0);
 
